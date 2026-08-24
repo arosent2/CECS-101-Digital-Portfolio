@@ -1,4 +1,3 @@
-# CECS-101-Digital-Portfolio
 # CECS-101 Digital Portfolio
 
 ## About Me
